@@ -9,8 +9,7 @@ attr_accessor :brand, :color, :size, :material, :condition
 
  def cobble
   puts "Your shoe is as good as new!"
-  if Shoe = "old"
-    Shoe = "new"
+  Shoe = puts "new"
   end
  end
 
